@@ -5,7 +5,7 @@
 ## Objectifs
 
 - Dans un domaine pré-existant, ajouter un serveur FreeIPA comme réplica
-- Inclure le service DNS et l'autorité de certification CA au réplica
+- Inclure le service DNS et l'autorité de certification (CA) au réplica
 - Appliquer les étapes de configuration nécessaires en amont afin d'obtenir un processus réussi
 
 ## Contexte
